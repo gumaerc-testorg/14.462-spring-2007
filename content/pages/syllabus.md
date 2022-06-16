@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course description and information on prerequisites,
+  textbooks, grading, recommended citation, and the course outline.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -26,7 +28,7 @@ The prerequisites for this course are 14.461 Advanced Macroeconomics I, 14.122 M
 Textbooks
 ---------
 
-There are no official textbooks for this course. Please refer to the [readings]({{< baseurl >}}/pages/readings) list.
+There are no official textbooks for this course. Please refer to the {{% resource_link 1a5c083b-7d59-272d-b371-02fb33fea30a "readings" %}} list.
 
 Grading
 -------
