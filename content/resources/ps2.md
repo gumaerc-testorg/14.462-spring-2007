@@ -5,6 +5,7 @@ file: /courses/14-462-advanced-macroeconomics-ii-spring-2007/d2ba988b4dfc8338c7f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps2.pdf
 uid: d2ba988b-4dfc-8338-c7fe-523a77128ec1
 ---
 This resource contains a problem set.
-

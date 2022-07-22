@@ -5,6 +5,7 @@ file: /courses/14-462-advanced-macroeconomics-ii-spring-2007/bf727bd1620dc68d2e2
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps1data.xls
 uid: bf727bd1-620d-c68d-2e28-8cb4623c422c
 ---
 This resource contains an Excel data file for Problem Set 1.
-
