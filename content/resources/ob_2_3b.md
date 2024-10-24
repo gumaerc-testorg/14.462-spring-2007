@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on the role of institutions in trust, hold-ups, and bargaining.
-file: /courses/14-462-advanced-macroeconomics-ii-spring-2007/86fae84a8791e4f6ed9d91e52b066114_ob_2_3b.pdf
+file: /ol-ocw-studio-app/courses/14-462-advanced-macroeconomics-ii-spring-2007/86fae84a8791e4f6ed9d91e52b066114_ob_2_3b.pdf
 file_size: 680067
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-462-advanced-macroeconomics-ii-spring-2007/6c98762cd6d610530461edbff257ba4b_chp_education.jpg
+file: /ol-ocw-studio-app/courses/14-462-advanced-macroeconomics-ii-spring-2007/6c98762cd6d610530461edbff257ba4b_chp_education.jpg
 file_size: 48828
 file_type: image/jpeg
 image_metadata:
