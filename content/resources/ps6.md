@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a problem set.
-file: /courses/14-462-advanced-macroeconomics-ii-spring-2007/16f7dc84da47c121fed9a5a89beb7413_ps6.pdf
+file: /ol-ocw-studio-app/courses/14-462-advanced-macroeconomics-ii-spring-2007/16f7dc84da47c121fed9a5a89beb7413_ps6.pdf
 file_size: 74866
 file_type: application/pdf
 learning_resource_types:
