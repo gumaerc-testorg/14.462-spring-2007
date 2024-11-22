@@ -136,7 +136,7 @@ Ahmed, Shaghil, Andrew T. Levin, and Beth Anne Wilson. "Recent U.S. Macroeconomi
 
 Canova, Fabio, and Luca Gambetti. "Structural Changes in the U.S. Economy: Bad Luck or Bad Policy?'' Centre for Economic Policy Research Discussion Paper No. 5457 (January 2006). ([PDF](https://pdfs.semanticscholar.org/6f3f/46317de7f60bb07a443e6e12df6a48786600.pdf?_ga=2.202723346.2016510353.1566239404-159250059.1566239404))
 
-Galí, Jordi, and L. Gambetti. "On the Sources of the Great Moderation." (June 2007). ([PDF)](http://dept.ku.edu/~empirics/Courses/Econ850/Papers/On%20the%20Sources%20of%20the%20Great%20Moderation.pdf)
+Galí, Jordi, and L. Gambetti. "On the Sources of the Great Moderation." (June 2007). 
 
 Stiroh, Kevin J. "Volatility Accounting: A Production Perspective on Increased Economic Stability." Federal Reserve Bank of New York Staff Report no. 245 (April 2006). ([PDF](http://www.newyorkfed.org/research/staff_reports/sr245.pdf))
 
@@ -187,8 +187,6 @@ Flows, bargaining, and unemployment
 Blanchard, Olivier, and Peter Diamond. "The Beveridge Curve." *Brookings Papers on Economic Activity* 1989, no. 1 (1989): 1-76.
 
 ### Additional readings
-
-Acemoglu, K. Daron. [Lecture Notes for 14.461, Fall 2005](http://econ-www.mit.edu/faculty/acemoglu/courses), part 2.
 
 Shimer, Robert. Lecture notes for a course on "Labor Markets and Macroeconomics."
 
