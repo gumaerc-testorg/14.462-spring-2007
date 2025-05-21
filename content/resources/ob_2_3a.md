@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on the role of institutions in employment protection and
   the labor market.
-file: /ol-ocw-studio-app/courses/14-462-advanced-macroeconomics-ii-spring-2007/c980dc4645532783f8fca6d44227aa27_ob_2_3a.pdf
+file: /courses/14-462-advanced-macroeconomics-ii-spring-2007/c980dc4645532783f8fca6d44227aa27_ob_2_3a.pdf
 file_size: 506665
 file_type: application/pdf
 learning_resource_types:
